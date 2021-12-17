@@ -52,6 +52,8 @@ div.navitem:hover {
 	height: 60px;
 	margin: auto;
 	text-decoration: none;
+	position: absolute;
+	bottom: 0;
 }
 .footeritem {
 	position: relative;
