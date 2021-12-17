@@ -47,7 +47,8 @@ let games = [
 	["Tomb of the Mask","assets/games/tombofthemask.png","15px","https://html5.gamedistribution.com/rvvASMiM/7f9d6adb9d1c4319853b7d9fc88f6d6d/?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5nYW1lcGl4LmNvbS8iLCJwYXJlbnREb21haW4iOiJnYW1lcGl4LmNvbSIsInRvcERvbWFpbiI6ImdhbWVwaXguY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMiJ9","9px","0px"],
 	["Colour Switch","assets/games/colourswitch.png","18px","https://html5.gamedistribution.com/rvvASMiM/50d9086380f1469b8d17df9e3b64d078/?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5nYW1lcGl4LmNvbS8iLCJwYXJlbnREb21haW4iOiJnYW1lcGl4LmNvbSIsInRvcERvbWFpbiI6ImdhbWVwaXguY29tIiwiaGFzSW1wcmVzc2lvbiI6ZmFsc2UsImxvYWRlckVuYWJsZWQiOnRydWUsImhvc3QiOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInZlcnNpb24iOiIxLjUuMiJ9","6px","-2px"],
 	["Drift Hunters","assets/games/drifthunters.png","18px","https://kdata1.com/2017/02/drift-hunters/","6px","-2px"],
-	["Mine Blocks","assets/games/mineblocks.jfif","18px","https://mineblocks.com/1/embed/html5/","6px","-2px"]
+	["Mine Blocks","assets/games/mineblocks.jfif","18px","https://mineblocks.com/1/embed/html5/","6px","-2px"],
+	["Happy Room","assets/games/happyroom.jpg","18px","http://www.gamesflare.org/games/indie/2017-1/happy-room/","6px","-2px"]
 ];
 
 const formatName = name => name.toLowerCase().split(" ").join("");
