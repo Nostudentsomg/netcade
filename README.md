@@ -6,7 +6,7 @@ Netcade is a website project that I made for people in school and was made with 
 * A collection of popular HTML5 and Flash games
 * A set of tools and pro‎xies to unbl‎ock the web
 * JavaScript bookmarklets that can run scripts on your page
-* Soon to come cinema page to watch movies and series
+* Cinema page with movies and series
 
 ## Deploying a Netcade instance
 
